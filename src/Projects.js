@@ -3,6 +3,7 @@ import { Element } from "react-scroll";
 
 export default function Projects() {
   return (
+    //projrcts
     <Element name="projects">
       <div className="bg-blue-950 h-full overflow-hidden scroll mt-14">
         <h1 className="text-4xl font-semibold text-blue-200">Projects</h1>
