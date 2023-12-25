@@ -14,6 +14,8 @@ export default function Contact() {
       )
       .then((res) => {
         console.log(res);
+        // Display an alert when the email is successfully sent
+        alert("Message sent successfully!");
       })
       .catch((err) => console.log(err));
   }

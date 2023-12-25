@@ -18,7 +18,7 @@ export default function Home() {
               </p>
               <p className="text-sky-200 py-3 pr-3">
                 I design user-friendly websites and applications using HTML,
-                Tailwind CSS JavaScript & React. working closely with back end
+                Tailwind CSS, JavaScript & React. working closely with back end
                 developers, I transform designs into functional digital
                 solutions for great user experiences.
               </p>
